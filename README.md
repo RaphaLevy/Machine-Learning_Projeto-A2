@@ -1,4 +1,4 @@
-# Machine-Learn
+# Machine-Learning - A2
 Grupo para o trabalho final de Machine Learning da EMAp-FGV.
 
 Este repositório tem como objetivo o desenvolvimento do trabalhado final da disciplina, cujo tema é um estudo sobre Disentangled Representations e Autoencoders.
